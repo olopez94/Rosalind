@@ -8,10 +8,10 @@ integers (both positive and negative) and floats (fractional numbers with a deci
 You can assign numbers to variables very easily.  Try running the following program:
 </p>
 
-<code> a = 324
+a = 324
 
-b = 
+b = 24
 
 c = a - b
 
-print('a - b is ',c)</code>
+print('a - b is ',c)
