@@ -7,7 +7,7 @@ In Python, the basic data types are strings and numbers. There are two types of 
 integers (both positive and negative) and floats (fractional numbers with a decimal point).
 You can assign numbers to variables very easily.  Try running the following program:
 </p>
-
+<code>
 a = 324
 
 b = 24
@@ -15,3 +15,4 @@ b = 24
 c = a - b
 
 print('a - b is ',c)
+</code>
