@@ -15,3 +15,8 @@ You can assign numbers to variables very easily.  Try running the following prog
 <code> c = a - b </code>
 
 <code> print('a - b is ',c) </code>
+
+<p> In the above code, a, b, and c are all integers, and 'a - b is' is a string.  The result
+of this program is to print: </p>
+
+<b><code> a - b is 300 </code></b>
