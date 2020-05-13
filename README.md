@@ -4,3 +4,5 @@ Rosalind is a platform for learning bioinformatics and programming through probl
 
 
 If you don't know anything about programming, you can start at the Python Village.
+
+<h2>Index</h2>
