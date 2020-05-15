@@ -9,4 +9,6 @@ Given a DNA string t corresponding to a coding strand, its transcribed RNA strin
   GAUGGAACUUGACUACGUAAAUU
 '''
 
-file = open ()
+dnaFile = open('.rosalind.txt','r')
+dnaString = dnaFile.read()
+rnaString = dnaString.replace('T','U')
