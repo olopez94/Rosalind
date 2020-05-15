@@ -19,7 +19,7 @@ for n, i in enumerate(reverseDna):
     reverseDna[n] = 'C'
   elif i == 'C':
     reverseDna[n] = 'G'
-  elif i = 'T':
+  elif i == 'T':
     reverseDna[n] = 'A'
 
 reverseDna = ''.join(reverseDna)
