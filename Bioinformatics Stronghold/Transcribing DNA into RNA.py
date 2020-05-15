@@ -8,3 +8,5 @@ Given a DNA string t corresponding to a coding strand, its transcribed RNA strin
   GATGGAACTTGACTACGTAAATT
   GAUGGAACUUGACUACGUAAAUU
 '''
+
+file = open ()
