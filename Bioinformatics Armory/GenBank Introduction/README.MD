@@ -35,4 +35,10 @@ You can restrict your search to only organisms belonging to the <I>Drosophila</I
 
 <H3>Programming Shortcut</H3>
 
+<P>
+NCBI's databases, such as PubMed, GenBank, GEO, and many others, can be accessed via Entrez, a data retrieval system offered by NCBI. 
+  For direct access to Entrez, you can use Biopython’s Bio.Entrez module.
 
+
+
+</P>
