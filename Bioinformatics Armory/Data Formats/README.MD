@@ -56,5 +56,20 @@ A
 
 The following code illustrates <CODE><B>efetch()</B></CODE> in action. It obtains plain text records in FASTA format from NCBI's [Nucleotide] database.
 
+<CODE>
+>>>from Bio import Entrez
+
+>>>Entrez.email = "your_name@your_mail_server.com"
+
+>>>handle = Entrez.efetch(db="nucleotide", id=["FJ817486, JX069768, JX469983"], rettype="fasta")
+
+>>>records = handle.read()
+
+>>>print(records)
+
+
+ </CODE>
+
+
 
 </P>
