@@ -53,4 +53,8 @@ A
 <H3>Programming Shortcut</H3>
 <P>To search for particular access IDs, you can use the function <CODE><B>Bio.Entrez.efetch(db, rettype)</B></CODE>, which takes two parameters: 
  the <CODE><B>db</B></CODE> parameter takes the database to search, and the <CODE><B>rettype</B></CODE> parameter takes the data format to be returned. 
+
+The following code illustrates <CODE><B>efetch()</B></CODE> in action. It obtains plain text records in FASTA format from NCBI's [Nucleotide] database.
+
+
 </P>
